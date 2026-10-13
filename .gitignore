@@ -1,0 +1,105 @@
+# dependencies
+node_modules/
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+coverage/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# turbo repo
+.turbo
+
+# pnpm
+pnpm-lock.yaml
+
+# yarn
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# npm
+npm-debug.log*
+package-lock.json
+
+# debug
+debug.log
+
+# runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# compiled output
+*.js.map
+*.d.ts.map
+
+# next.js cache
+.next/cache/
+
+# temporary files
+tmp/
+temp/
+*.tmp
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+Thumbs.db
+*.cab
+*.msi
+*.msm
+*.msu
